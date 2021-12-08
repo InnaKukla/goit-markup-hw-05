@@ -781,12 +781,10 @@ img {
   transition-property: transform;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-  opacity: 1;
 }
 
 .examples-link:hover .example-item-text,
 .examples-link:focus .example-item-text {
-  opacity: 1;
   transform: translateY(0%);
 }
 
